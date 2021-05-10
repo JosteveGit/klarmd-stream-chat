@@ -18,7 +18,8 @@ dependencies:
   flutter_markdown: ^0.3.3
   url_launcher: ^5.4.1
   video_player: ^0.10.7
-  chewie: ^0.9.8+1
+  chewie:
+    git: https://github.com/JosteveGit/klarmd-chewie.git
   file_picker: ^1.4.3+2
   image_picker: ^0.6.3+4
   keyboard_visibility: ^0.5.6
